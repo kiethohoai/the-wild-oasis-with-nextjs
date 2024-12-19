@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1>Hello NextJs</h1>;
+  return <h1>The Wild Oasis. Welcome to paradise</h1>;
 }

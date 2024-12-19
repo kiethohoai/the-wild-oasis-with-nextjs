@@ -1,1 +1,2 @@
 008 Setting Up a Next.js Project
+010 Defining Routes and Pages
