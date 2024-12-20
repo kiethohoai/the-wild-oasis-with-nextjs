@@ -3,3 +3,4 @@
 011 Navigating Between Pages
 012 Creating a Layout
 013 What are React Server Components (RSC – Part 1)
+014 Fetching Data in a Page
