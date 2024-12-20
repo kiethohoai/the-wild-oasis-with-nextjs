@@ -2,9 +2,4 @@
 010 Defining Routes and Pages
 011 Navigating Between Pages
 012 Creating a Layout
-
-
-  "plugins": [
-    "prettier-plugin-tailwindcss",
-    "prettier-plugin-classnames"
-  ]
+013 What are React Server Components (RSC – Part 1)
