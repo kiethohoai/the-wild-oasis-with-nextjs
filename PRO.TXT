@@ -6,3 +6,9 @@
 014 Fetching Data in a Page
 015 Adding Interactivity With Client Components
 016 Displaying a Loading Indicator
+
+33 - Starting to Build the Wild Oasis Website
+001 Section Overview
+002 Project Planning The Wild Oasis Customer Website
+003 Project Organization
+004 Styling With Tailwind CSS
