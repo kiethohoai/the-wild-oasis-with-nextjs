@@ -18,3 +18,4 @@
 008 Optimizing Images With Next.js Image  Component
 009 Building the Home Page
 010 Building the About Page With Responsive Images
+011 Adding Nested Routes and Pages

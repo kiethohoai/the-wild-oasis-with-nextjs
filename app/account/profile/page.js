@@ -1,9 +1,9 @@
-import SelectCountry from "@/app/_components/SelectCountry";
+import SelectCountry from '@/app/_components/SelectCountry';
 
 export default function Page() {
   // CHANGE
-  const countryFlag = "pt.jpg";
-  const nationality = "portugal";
+  const countryFlag = 'pt.jpg';
+  const nationality = 'portugal';
 
   return (
     <div>
@@ -21,7 +21,8 @@ export default function Page() {
           <label>Full name</label>
           <input
             disabled
-            className="px-5 py-3 bg-primary-200 text-primary-800 w-full shadow-sm rounded-sm disabled:cursor-not-allowed disabled:bg-gray-600 disabled:text-gray-400"
+            className="px-5 py-3 bg-primary-200 text-primary-800 w-full shadow-sm rounded-sm
+              disabled:cursor-not-allowed disabled:bg-gray-600 disabled:text-gray-400"
           />
         </div>
 
@@ -29,7 +30,8 @@ export default function Page() {
           <label>Email address</label>
           <input
             disabled
-            className="px-5 py-3 bg-primary-200 text-primary-800 w-full shadow-sm rounded-sm disabled:cursor-not-allowed disabled:bg-gray-600 disabled:text-gray-400"
+            className="px-5 py-3 bg-primary-200 text-primary-800 w-full shadow-sm rounded-sm
+              disabled:cursor-not-allowed disabled:bg-gray-600 disabled:text-gray-400"
           />
         </div>
 
@@ -60,7 +62,11 @@ export default function Page() {
         </div>
 
         <div className="flex justify-end items-center gap-6">
-          <button className="bg-accent-500 px-8 py-4 text-primary-800 font-semibold hover:bg-accent-600 transition-all disabled:cursor-not-allowed disabled:bg-gray-500 disabled:text-gray-300">
+          <button
+            className="bg-accent-500 px-8 py-4 text-primary-800 font-semibold hover:bg-accent-600
+              transition-all disabled:cursor-not-allowed disabled:bg-gray-500
+              disabled:text-gray-300"
+          >
             Update profile
           </button>
         </div>
