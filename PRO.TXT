@@ -13,3 +13,4 @@
 003 Project Organization
 004 Styling With Tailwind CSS
 005 Adding Page Metadata and Favicon
+006 Loading and Optimizing Fonts
