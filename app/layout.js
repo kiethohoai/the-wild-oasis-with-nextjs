@@ -3,8 +3,11 @@ import Navigation from '@/app/_components/Navigation';
 import '@/app/_styles/globals.css';
 
 export const metadata = {
-  title: 'The Wild Oasis',
-  description: 'The Best Hotel App in the World',
+  title: {
+    default: 'Welcome | The Wild Oasis',
+    template: '%s | The Wild Oasis',
+  },
+  description: 'Discover luxury cabins in the heart of the Italian Dolomites',
 };
 
 export default function RootLayout({ children }) {

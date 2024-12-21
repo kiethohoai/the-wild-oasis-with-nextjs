@@ -12,3 +12,4 @@
 002 Project Planning The Wild Oasis Customer Website
 003 Project Organization
 004 Styling With Tailwind CSS
+005 Adding Page Metadata and Favicon
