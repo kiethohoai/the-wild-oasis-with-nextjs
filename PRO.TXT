@@ -17,3 +17,4 @@
 007 Improving the Navigation and Root Layout
 008 Optimizing Images With Next.js Image  Component
 009 Building the Home Page
+010 Building the About Page With Responsive Images
