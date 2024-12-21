@@ -16,3 +16,4 @@
 006 Loading and Optimizing Fonts
 007 Improving the Navigation and Root Layout
 008 Optimizing Images With Next.js Image  Component
+009 Building the Home Page
