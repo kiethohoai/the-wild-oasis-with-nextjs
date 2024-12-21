@@ -5,3 +5,4 @@
 013 What are React Server Components (RSC – Part 1)
 014 Fetching Data in a Page
 015 Adding Interactivity With Client Components
+016 Displaying a Loading Indicator
