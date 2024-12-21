@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Account',
+  title: 'Cabins',
 };
 
 export default function Page() {

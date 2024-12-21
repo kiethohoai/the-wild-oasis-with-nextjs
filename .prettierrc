@@ -1,4 +1,8 @@
 {
+  "plugins": [
+    "prettier-plugin-tailwindcss",
+    "prettier-plugin-classnames"
+  ],
   "arrowParens": "always",
   "bracketSameLine": false,
   "bracketSpacing": true,
