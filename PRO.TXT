@@ -19,3 +19,4 @@
 009 Building the Home Page
 010 Building the About Page With Responsive Images
 011 Adding Nested Routes and Pages
+012 Adding a Nested Layout
